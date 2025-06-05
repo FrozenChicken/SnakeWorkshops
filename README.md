@@ -1,0 +1,2 @@
+# SnakeWorkshops
+Erlang workshops
